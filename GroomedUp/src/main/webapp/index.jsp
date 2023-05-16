@@ -9,6 +9,6 @@
 <body>
 Welcome To Groomed Up
 This is our application
-hello
+
 </body>
 </html>
